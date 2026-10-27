@@ -1,0 +1,80 @@
+[
+  {
+    "id": "my_server_master_filter",
+    "name": "My Master AdBlock Filter",
+    "description": "Consolidated ad, tracker, telemetry and malware blocking list from my server",
+    "isEnabled": true,
+    "isBuiltIn": true,
+    "category": "ads",
+    "ruleCount": 50000,
+    "downloadUrl": "https://your-server.com/rules/adblock_rules.txt",
+    "originalUrl": "https://your-server.com/rules/adblock_rules.txt",
+    "bloomUrl": "",
+    "trieUrl": ""
+  },
+  {
+    "id": "steven_black_unified",
+    "name": "StevenBlack Unified Hosts",
+    "description": "Consolidated ad, tracking, and malware blocking hosts list",
+    "isEnabled": true,
+    "isBuiltIn": true,
+    "category": "ads",
+    "ruleCount": 135000,
+    "downloadUrl": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
+    "originalUrl": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
+    "bloomUrl": "",
+    "trieUrl": ""
+  },
+  {
+    "id": "adguard_dns_filter",
+    "name": "AdGuard DNS Filter",
+    "description": "Lightweight filter optimized specifically for mobile DNS ad blocking",
+    "isEnabled": true,
+    "isBuiltIn": true,
+    "category": "ads",
+    "ruleCount": 42000,
+    "downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
+    "originalUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
+    "bloomUrl": "",
+    "trieUrl": ""
+  },
+  {
+    "id": "easyprivacy_trackers",
+    "name": "EasyPrivacy Tracking Protection",
+    "description": "Blocks all known tracking scripts, telemetry, and web analytics",
+    "isEnabled": false,
+    "isBuiltIn": true,
+    "category": "privacy",
+    "ruleCount": 32000,
+    "downloadUrl": "https://v.firebog.net/hosts/Easyprivacy.txt",
+    "originalUrl": "https://v.firebog.net/hosts/Easyprivacy.txt",
+    "bloomUrl": "",
+    "trieUrl": ""
+  },
+  {
+    "id": "peter_lowe_list",
+    "name": "Peter Lowe's Ad & Tracker List",
+    "description": "Maintains a clean and targeted list of adservers and trackers",
+    "isEnabled": false,
+    "isBuiltIn": true,
+    "category": "privacy",
+    "ruleCount": 3800,
+    "downloadUrl": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext",
+    "originalUrl": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext",
+    "bloomUrl": "",
+    "trieUrl": ""
+  },
+  {
+    "id": "oisd_basic_blocklist",
+    "name": "OISD Small",
+    "description": "Reliable internet ad-blocker without website breakage",
+    "isEnabled": false,
+    "isBuiltIn": true,
+    "category": "ads",
+    "ruleCount": 78000,
+    "downloadUrl": "https://small.oisd.nl",
+    "originalUrl": "https://small.oisd.nl",
+    "bloomUrl": "",
+    "trieUrl": ""
+  }
+]

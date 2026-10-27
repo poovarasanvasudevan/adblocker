@@ -1,0 +1,98 @@
+# ==============================================================================
+# Title: Custom Server AdBlock & Anti-Tracking Rules
+# Updated: 2026-10-25
+# Format: Hosts / Adblock / Domain list compatible with AdBlocker Go Engine
+# ==============================================================================
+
+# [General Ad Networks & Ad Servers]
+0.0.0.0 doubleclick.net
+0.0.0.0 adservice.google.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 ads.pubmatic.com
+0.0.0.0 ib.adnxs.com
+0.0.0.0 adnxs.com
+0.0.0.0 cdn.adnxs.com
+0.0.0.0 ads.rubiconproject.com
+0.0.0.0 fastlane.rubiconproject.com
+0.0.0.0 optimized-by.rubiconproject.com
+0.0.0.0 cas.criteo.com
+0.0.0.0 static.criteo.net
+0.0.0.0 bid.openx.net
+0.0.0.0 us-u.openx.net
+0.0.0.0 ads.inmobi.com
+0.0.0.0 config.inmobi.com
+0.0.0.0 r.mobfox.com
+0.0.0.0 ads.mopub.com
+0.0.0.0 applovin.com
+0.0.0.0 d.applovin.com
+0.0.0.0 ms.applovin.com
+0.0.0.0 ads.unity3d.com
+0.0.0.0 auction.unityads.unity3d.com
+0.0.0.0 vungle.com
+0.0.0.0 ads.vungle.com
+0.0.0.0 ironSource.com
+0.0.0.0 ads.ironsrc.com
+0.0.0.0 supersonicads.com
+
+# [Social Media Trackers & Telemetry]
+0.0.0.0 pixel.facebook.com
+0.0.0.0 an.facebook.com
+0.0.0.0 ads.tiktok.com
+0.0.0.0 analytics.tiktok.com
+0.0.0.0 ads-twitter.com
+0.0.0.0 static.ads-twitter.com
+0.0.0.0 p.twitter.com
+0.0.0.0 ads.pinterest.com
+0.0.0.0 tr.snapchat.com
+0.0.0.0 ads.snapchat.com
+0.0.0.0 sc-analytics.appspot.com
+
+# [Analytics & Behavioral Profiling]
+0.0.0.0 google-analytics.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 www.google-analytics.com
+0.0.0.0 analytics.google.com
+0.0.0.0 hotjar.com
+0.0.0.0 static.hotjar.com
+0.0.0.0 script.hotjar.com
+0.0.0.0 mixpanel.com
+0.0.0.0 api.mixpanel.com
+0.0.0.0 segment.io
+0.0.0.0 api.segment.io
+0.0.0.0 cdn.segment.com
+0.0.0.0 amplitude.com
+0.0.0.0 api.amplitude.com
+0.0.0.0 api2.amplitude.com
+0.0.0.0 fullstory.com
+0.0.0.0 rs.fullstory.com
+0.0.0.0 edge.fullstory.com
+0.0.0.0 clarity.ms
+0.0.0.0 c.clarity.ms
+0.0.0.0 smartlook.com
+0.0.0.0 rec.smartlook.com
+0.0.0.0 crazyegg.com
+0.0.0.0 script.crazyegg.com
+
+# [OEM & Device Telemetry]
+0.0.0.0 telemetry.samsung.com
+0.0.0.0 ssm.samsung.com
+0.0.0.0 data.mistat.xiaomi.com
+0.0.0.0 tracking.miui.com
+0.0.0.0 adv.sec.intl.miui.com
+0.0.0.0 api.ad.xiaomi.com
+0.0.0.0 metrics.data.hicloud.com
+0.0.0.0 logservice.hicloud.com
+
+# [AdBlock / EasyList Filter Rule Syntax Also Supported]
+||adcolony.com^
+||chartboost.com^
+||flurry.com^
+||tapjoy.com^
+||taboola.com^
+||outbrain.com^
+||popads.net^
+||propellerads.com^

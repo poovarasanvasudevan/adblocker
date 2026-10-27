@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "314074827050",
+    "project_id": "adblocker-b748a",
+    "storage_bucket": "adblocker-b748a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314074827050:android:19da0b8739c2263dcf3653",
+        "android_client_info": {
+          "package_name": "com.kiteapps.adblocker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314074827050-eamjk81nulal0pbp7m5e67b9i926rdtc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kiteapps.adblocker",
+            "certificate_hash": "cf8ba3685bf32078bcb03b28b92e68bd75b664e8"
+          }
+        },
+        {
+          "client_id": "314074827050-112sthcvugajp5sud7hrn20penv3ai0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5IZP35HmW5Gbj1jcQF2KnEzG0FXtexeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314074827050-112sthcvugajp5sud7hrn20penv3ai0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
